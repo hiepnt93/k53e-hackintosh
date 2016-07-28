@@ -1,0 +1,32 @@
+9:444  0:663  Found UEFI Acpi 2.0 RSDP at B2FFFF98
+9:444  0:000  Saving ACPI tables from RSDP B2FFFF98 to EFI\CLOVER\ACPI\origin ...
+9:444  0:000   B2FFFF98: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+9:444  0:000    (Xsdt: B2FFEE18, Rsdt: B2FFEF18)
+9:444  0:000    B2FFEE18: 'XSDT', 'Notebook', Rev: 1, Len: 108
+9:444  0:000    B2FFEF18: 'RSDT', 'Notebook', Rev: 1, Len: 72
+9:444  0:000    Tables in Xsdt: 9
+9:444  0:000    0. B2F9AD98: 'FACP', 'Notebook', Rev: 4, Len: 244
+9:444  0:000        (Dsdt: B2F88018, Facs: B2FE4E40, XDsdt: B2F88018, XFacs: B2FE4D40)
+9:444  0:000        B2F88018: 'DSDT', 'Notebook', Rev: 1, Len: 71507
+9:447  0:002        B2FE4D40: 'FACS', Ver: 1, Len: 64
+9:447  0:000    1. B2FFDF18: 'APIC', 'Notebook', Rev: 2, Len: 204
+9:447  0:000    2. B2FFFF18: 'DBGP', 'Notebook', Rev: 1, Len: 52
+9:447  0:000    3. B2FE4B18: 'ECDT', 'Notebook', Rev: 1, Len: 193
+9:447  0:000    4. B2FE5D18: 'HPET', 'Notebook', Rev: 1, Len: 56
+9:447  0:000    5. B2FE5C98: 'MCFG', 'Notebook', Rev: 1, Len: 60
+9:447  0:000    6. B2F87018: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 2323
+9:447  0:000    7. B2F86018: 'SSDT', 'CpuPm', Rev: 1, Len: 2454
+9:447  0:000    8. B2FE4A18: 'ASF!', ' HCG', Rev: 32, Len: 160
+9:447  0:000    Tables in Rsdt: 9
+9:447  0:000    0. B2F9AF18: 'FACP', 'Notebook', Rev: 2, Len: 132
+9:447  0:000        (Dsdt: B2F88018, Facs: B2FE4E40)
+9:447  0:000        B2F88018: 'DSDT', 'Notebook', Rev: 1, Len: 71507
+9:449  0:002        B2FE4E40: 'FACS', Ver: 0, Len: 64
+9:449  0:000    1. B2FFDF18: 'APIC', 'Notebook', Rev: 2, Len: 204
+9:449  0:000    2. B2FFFF18: 'DBGP', 'Notebook', Rev: 1, Len: 52
+9:449  0:000    3. B2FE4B18: 'ECDT', 'Notebook', Rev: 1, Len: 193
+9:449  0:000    4. B2FE5D18: 'HPET', 'Notebook', Rev: 1, Len: 56
+9:449  0:000    5. B2FE5C98: 'MCFG', 'Notebook', Rev: 1, Len: 60
+9:449  0:000    6. B2F87018: 'SSDT', 'Cpu0Ist', Rev: 1, Len: 2323
+9:449  0:000    7. B2F86018: 'SSDT', 'CpuPm', Rev: 1, Len: 2454
+9:449  0:000    8. B2FE4A18: 'ASF!', ' HCG', Rev: 32, Len: 160
